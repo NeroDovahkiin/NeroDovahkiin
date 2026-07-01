@@ -67,9 +67,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
 </a>
 
-  <a href="https://learn.microsoft.com/sql/sql-server/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" width="40" height="40"/>
-  </a>
 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
