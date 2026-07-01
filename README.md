@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federico Guzzo</h1>  
-<h3 align="center">I am a Programmer Analyst student at the ORT University of Uruguay and I am beginning to contribute my seed to this world of programming. If you read this, I hope you have a good day.</h3>  
+<h3 align="center">I graduated with a degree in Computer Programming from ORT University in Uruguay and I'm starting to contribute my bit to the world of programming. If you're reading this, I hope you're having a good day.</h3>  
 <div>
 <p align="center">
 <image src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="ProgrammingImage" width="300">
