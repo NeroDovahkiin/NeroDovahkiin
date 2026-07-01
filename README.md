@@ -23,10 +23,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   </a>
@@ -43,10 +39,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
 
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -55,19 +47,35 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="40" height="40"/>
   </a>
 
-  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" width="40" height="40"/>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/sql/sql-server/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" width="40" height="40"/>
+  </a>
+
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
+  </a>
+
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   </a>
 </p>
