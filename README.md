@@ -55,17 +55,17 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
 
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="40" height="40"/>
-  </a>
+ <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
+</a>
 
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a>
+  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+</a>
 
   <a href="https://learn.microsoft.com/sql/sql-server/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" width="40" height="40"/>
